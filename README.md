@@ -25,3 +25,4 @@ CI/CD Mindset: Applied best practices for clean architecture, separation of conc
 
 -------------------
 Tools & Tech: Spring Boot, gRPC, Kafka, Protobuf, JWT, PostgreSQL, Docker, LocalStack, AWS CLI, Spring Security, Spring Data JPA, OpenAPI/Swagger, JUnit, IntelliJ HTTP Client
+
