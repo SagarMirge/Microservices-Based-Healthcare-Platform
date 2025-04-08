@@ -1,0 +1,13 @@
+### GET request to create patients records
+POST http://localhost:4000/patients
+Content-Type: application/json
+
+{
+  "name": "John doe GRPC2",
+  "email": "exampl412@test69.com",
+  "address": "Puerto rico SHinjo Spain",
+  "dateOfBirth": "1999-10-01",
+  "registeredDate":"2025-04-02"
+}
+
+###
